@@ -1,0 +1,1 @@
+[null,{"name":"JoinAdvertiseServers","temp":"","event-type":"1","actions":[]},{"name":"BotError","temp":"","event-type":"37","actions":[{"gameName":"Bot-Error: Unknown","gameLink":"","name":"Set Bot Game"}]},{"name":"NewEvent","temp":"","event-type":"0","actions":[]},{"name":"StatusChangeOnAFK","temp":"","event-type":"0","actions":[]}]
